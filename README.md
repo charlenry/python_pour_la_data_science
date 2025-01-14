@@ -19,5 +19,4 @@ Les sujets abordés sont les suivants:
 Ces travaux m'ont permis de découvrir la Data Science et d'acquérir des compétences sur les technologies mentionnées ci-dessus.
 
 ## Contact
-Si vous êtes recruteur et que vous êtes intéressé par mon profil, vous pouvez m'appeler au 0652@74@87@30. <br>
-[Mon LinkedIn](https://www.linkedin.com/in/charles-henri-saint-mars)
+[LinkedIn de Charles-Henri SAINT-MARS](https://www.linkedin.com/in/charles-henri-saint-mars)
